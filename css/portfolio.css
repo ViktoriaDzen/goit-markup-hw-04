@@ -1,0 +1,26 @@
+.portfolio {
+}
+.container {
+}
+.section-title {
+  margin-bottom: 72px;
+}
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.portfolio-item {
+  width: calc((100% - 24px * 2) / 3);
+}
+
+.card-title {
+}
+.card-text {
+}
+
+.portfolio-card-content {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+}
